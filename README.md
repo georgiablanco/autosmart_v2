@@ -18,22 +18,23 @@ local set up for a tester; AutoSmart was then able to run in addition to the
 manual Testers and was integrated in to the current automation framework.
 
 
+![alt text](https://github.com/georgiablanco/autosmart_v2/blob/master/AUTOSMART_PIC.JPG)
 
-Front end
+# Front end
 Where you select the test’s you want to run and the boxes (HUB/RACK)
 
-Test Script
+# Test Script
 Each test has an individual test script with a unique order of test procedures. 
 These procedures are called from a template script that has all of test procedures that is needed for any AdSmart test. 
 These templates are input dependent from the arguments in the test script.
 
-Servers
+# Servers
 The majority of the procedures are services which allows them to be accessed remotely meaning they can be accessed not only from your local computer set up.
 Stream player – used to control the stream playout and status.
 VNC remote 
 STB Extractor – being able to extract from a box using its unique IP
 
-STBS
+# STBS
 The services talk with the STBs to complete each test step. 
 The PASS/FAIL steps are mostly from verification stages. Once the extractor server extracts the AdSmart report, the test script calls the verification process to see if the information on the report matches what is expected. And a pass or fail is submitted. This is then shown on the front end.
 
