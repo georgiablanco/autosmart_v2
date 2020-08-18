@@ -6,11 +6,11 @@ It outputs a pass or fail per step allowing the program to determine whether the
 
 The main task for this project was to automate the 4 key procedures that are used in any
 AdSmart test:
-• Play out the specific stream needed for the test. This was done using a service
-• Remote control commands
-• Extract the reports from the box. This was also done using a service
+• Play out the specific stream needed for the test. This was done using a service <br />
+• Remote control commands <br />
+• Extract the reports from the box. This was also done using a service <br />
 • Verification from the reports that the box has recorded the correct information in
-its html report
+its html report <br />
 
 Once the procedures had been automated, I then adapted the script to allow for more
 than one box to run at a time. Allowing the 4 STB platforms to run in parallel. Which is a
