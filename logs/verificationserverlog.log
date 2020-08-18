@@ -1,0 +1,9 @@
+2019-08-14 15:57:42,608 - 14428 - MainProcess - 11876 - INFO - Verifying value from top paragraph for slot ID =100201 attribute =downloaded assets expected value = 26
+2019-08-14 15:57:42,979 - 14428 - MainProcess - 11876 - INFO - downloaded assets
+2019-08-14 15:57:42,980 - 14428 - MainProcess - 11876 - INFO - Teststep verification passed
+2019-08-14 15:57:45,288 - 14428 - MainProcess - 4964 - INFO - Verifying value from top paragraph for slot ID =100201 attribute =downloaded assets expected value = 26
+2019-08-14 15:57:45,641 - 14428 - MainProcess - 4964 - INFO - downloaded assets
+2019-08-14 15:57:45,641 - 14428 - MainProcess - 4964 - INFO - Teststep verification passed
+2019-08-14 15:59:00,904 - 14428 - MainProcess - 11032 - INFO - Verifying value from top paragraph for slot ID =100201 attribute =downloaded assets expected value = 26
+2019-08-14 15:59:01,325 - 14428 - MainProcess - 11032 - INFO - downloaded assets
+2019-08-14 15:59:01,326 - 14428 - MainProcess - 11032 - INFO - Teststep verification passed
