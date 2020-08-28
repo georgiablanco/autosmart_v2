@@ -5,7 +5,7 @@ that is able to run stream tests by following test steps within a specific test 
 It outputs a pass or fail per step allowing the program to determine whether the overall test has passed or not.
 
 The main task for this project was to automate the 4 key procedures that are used in any
-AdSmart test:
+AdSmart test:  
 • Play out the specific stream needed for the test. This was done using a service <br />
 • Remote control commands <br />
 • Extract the reports from the box. This was also done using a service <br />
